@@ -84,7 +84,7 @@ params:
       url: https://umami-ochre-nu.vercel.app/hugo-ladder.js
   guestbook:
     title: Guestbook
-    description: Leave a comment below. It could be anything –- question, appreciation, information, or even humor.
+    description: 知道你有很多悄悄话要跟我说，来吧就在这里.
   social:
     - name: GitHub
       pre: >-
@@ -105,7 +105,7 @@ languages:
           今天能见到啦
     guestbook:
       title: 留言板
-      description: 大声说出你的爱吧~
+      description: 知道你有很多悄悄话要跟我说，来吧就在这里
     menu:
       main:
         - name: 文章
