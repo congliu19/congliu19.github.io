@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>shortcode on Cong's Blog</title><link>https://congliu.github.io/tags/shortcode/</link><description>Recent content in shortcode on Cong's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh</language><managingEditor>congliu@gmail.com (Cong Liu)</managingEditor><webMaster>congliu@gmail.com (Cong Liu)</webMaster><copyright>2023 Cong Liu All rights reserved</copyright><lastBuildDate>Mon, 18 Jul 2022 20:29:08 +0000</lastBuildDate><atom:link href="https://congliu.github.io/tags/shortcode/index.xml" rel="self" type="application/rss+xml"/><item><title>Rich Content</title><link>https://congliu.github.io/blog/rich-content/</link><pubDate>Mon, 18 Jul 2022 20:29:08 +0000</pubDate><author>congliu@gmail.com (Cong Liu)</author><guid>https://congliu.github.io/blog/rich-content/</guid><description>&lt;h2 id="figure">figure&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>shortcode on Cong's Blog</title><link>https://congliu19.github.io/tags/shortcode/</link><description>Recent content in shortcode on Cong's Blog</description><generator>Hugo -- gohugo.io</generator><language>zh</language><managingEditor>congliu@gmail.com (Cong Liu)</managingEditor><webMaster>congliu@gmail.com (Cong Liu)</webMaster><copyright>2023 Cong Liu All rights reserved</copyright><lastBuildDate>Mon, 18 Jul 2022 20:29:08 +0000</lastBuildDate><atom:link href="https://congliu19.github.io/tags/shortcode/index.xml" rel="self" type="application/rss+xml"/><item><title>Rich Content</title><link>https://congliu19.github.io/blog/rich-content/</link><pubDate>Mon, 18 Jul 2022 20:29:08 +0000</pubDate><author>congliu@gmail.com (Cong Liu)</author><guid>https://congliu19.github.io/blog/rich-content/</guid><description>&lt;h2 id="figure">figure&lt;/h2>
 &lt;h2 id="ref-in-posts">ref in posts&lt;/h2>
-&lt;p>&lt;a href="https://congliu.github.io/blog/videos/">Neat&lt;/a>
-&lt;a href="https://congliu.github.io/blog/videos/#who">Who&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://congliu19.github.io/blog/videos/">Neat&lt;/a>
+&lt;a href="https://congliu19.github.io/blog/videos/#who">Who&lt;/a>&lt;/p>
 &lt;h2 id="hide-toggle">hide toggle&lt;/h2>
 &lt;p>
 &lt;details class="toggle">
@@ -75,9 +75,9 @@ display: block;
 &lt;div class="tab-content tab-content-1-2">
 window install hugo
 &lt;/div>
-&lt;/div></description></item><item><title>Rich Content</title><link>https://congliu.github.io/blog/zh/rich-content/</link><pubDate>Mon, 18 Jul 2022 20:29:08 +0000</pubDate><author>congliu@gmail.com (Cong Liu)</author><guid>https://congliu.github.io/blog/zh/rich-content/</guid><description>&lt;h2 id="figure">figure&lt;/h2>
+&lt;/div></description></item><item><title>Rich Content</title><link>https://congliu19.github.io/blog/zh/rich-content/</link><pubDate>Mon, 18 Jul 2022 20:29:08 +0000</pubDate><author>congliu@gmail.com (Cong Liu)</author><guid>https://congliu19.github.io/blog/zh/rich-content/</guid><description>&lt;h2 id="figure">figure&lt;/h2>
 &lt;h2 id="ref-in-posts">ref in posts&lt;/h2>
-&lt;p>&lt;a href="https://congliu.github.io/blog/zh/how-to-integrate-umami-for-free-to-blog-site/">Neat&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://congliu19.github.io/blog/zh/how-to-integrate-umami-for-free-to-blog-site/">Neat&lt;/a>&lt;/p>
 &lt;h2 id="hide-toggle">hide toggle&lt;/h2>
 &lt;p>
 &lt;details class="toggle">
