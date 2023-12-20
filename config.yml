@@ -99,8 +99,9 @@ languages:
   zh:
     languageName: 中
     author: Love SYX
-    authorDescription: 这是一个有爱的网站。
-    info: 表达爱意 4 SYX
+    authorDescription: 这是一个有爱的网站,记录点点滴滴。
+    info: 表达爱意 4 SYX \n Yeah~
+          今天能见到啦
     guestbook:
       title: 留言板
       description: 大声说出你的爱吧~
