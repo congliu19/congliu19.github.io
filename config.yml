@@ -35,7 +35,7 @@ menu:
       weight: 6
 params:
   brand: HOME
-  avatarURL: /images/lc.png
+  avatarURL: /images/avatar.png
   author: Cong Liu
   authorDescription: 这是一个有爱的网站,记录点点滴滴。
   info: 表达爱意 4 SYX \n Yeah~
